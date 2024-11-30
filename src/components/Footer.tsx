@@ -21,7 +21,7 @@ const Footer = () => {
                 <SocialIcon url="https://github.com/SATVIK202004" bgColor="black" style={{ height: 35, width: 35 }} />
               </motion.div>
               <motion.div whileHover={{ scale: 1.1 }}>
-                <SocialIcon url="https://www.instagram.com/iamsatvik20/" bgColor="dark pink" style={{ height: 35, width: 35 }} />
+                <SocialIcon url="https://www.instagram.com/iamsatvik20/" bgColor="pink" style={{ height: 35, width: 35 }} />
               </motion.div>
               <motion.div whileHover={{ scale: 1.1 }}>
                 <SocialIcon url="https://www.linkedin.com/in/peddisetty-venkat-satvik-363903284/" bgColor="blue" style={{ height: 35, width: 35 }} />
