@@ -32,7 +32,8 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">Project Information</h3>
             <p className="text-sm opacity-80">
               Developed by: Peddisetty Venkat Satvik<br />
-              Roll No: 2200040029<br />
+              ID no: 2200040029<br />
+               Branch: ECE<br />
               Version: 1.0.0
             </p>
           </div>
